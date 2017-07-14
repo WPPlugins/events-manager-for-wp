@@ -1,0 +1,253 @@
+# Copyright (C) 2016 Events Manager for WordPress
+# This file is distributed under the same license as the Events Manager for WordPress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Events Manager for WordPress 1.2.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/events-manager-"
+"for-wp\n"
+"POT-Creation-Date: 2016-09-02 10:18:28+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: inc/class-em4wp-event-type.php:44
+msgid "Event Type"
+msgstr ""
+
+#: inc/class-em4wp-event-type.php:71
+msgid "Event type"
+msgstr ""
+
+#: inc/class-em4wp-events-calendar.php:67
+msgid "Events"
+msgstr ""
+
+#: inc/class-em4wp-events-calendar.php:68
+msgid "Event"
+msgstr ""
+
+#: inc/class-em4wp-events-calendar.php:69
+msgid "Add New"
+msgstr ""
+
+#: inc/class-em4wp-events-calendar.php:70
+msgid "Add New Event"
+msgstr ""
+
+#: inc/class-em4wp-events-calendar.php:71
+msgid "Edit Event"
+msgstr ""
+
+#: inc/class-em4wp-events-calendar.php:72
+msgid "New Event"
+msgstr ""
+
+#: inc/class-em4wp-events-calendar.php:73
+msgid "View Event"
+msgstr ""
+
+#: inc/class-em4wp-events-calendar.php:74
+msgid "Search Events"
+msgstr ""
+
+#: inc/class-em4wp-events-calendar.php:75
+msgid "No Events found"
+msgstr ""
+
+#: inc/class-em4wp-events-calendar.php:76
+msgid "No Events found in trash"
+msgstr ""
+
+#: inc/class-em4wp-events-calendar.php:78
+msgid "Events Manager"
+msgstr ""
+
+#: inc/class-em4wp-events-calendar.php:142
+#: inc/class-em4wp-events-calendar.php:160
+msgid "Unknown"
+msgstr ""
+
+#: inc/class-em4wp-events-calendar.php:249
+msgid "Enter Event Name Here"
+msgstr ""
+
+#: inc/class-em4wp-events-calendar.php:267
+msgid "Categories"
+msgstr ""
+
+#: inc/class-em4wp-events-calendar.php:268
+#: inc/class-em4wp-events-calendar.php:277
+msgid "Category"
+msgstr ""
+
+#: inc/class-em4wp-events-calendar.php:269
+msgid "Search Categories"
+msgstr ""
+
+#: inc/class-em4wp-events-calendar.php:270
+msgid "All Categories"
+msgstr ""
+
+#: inc/class-em4wp-events-calendar.php:271
+msgid "Parent Category"
+msgstr ""
+
+#: inc/class-em4wp-events-calendar.php:272
+msgid "Parent Category:"
+msgstr ""
+
+#: inc/class-em4wp-events-calendar.php:273
+msgid "Edit Category"
+msgstr ""
+
+#: inc/class-em4wp-events-calendar.php:274
+msgid "Update Category"
+msgstr ""
+
+#: inc/class-em4wp-events-calendar.php:275
+msgid "Add New Category"
+msgstr ""
+
+#: inc/class-em4wp-events-calendar.php:276
+msgid "New Category Name"
+msgstr ""
+
+#: inc/class-em4wp-events-calendar.php:295
+msgid "Date and Time Details"
+msgstr ""
+
+#: inc/class-em4wp-frontend.php:95
+msgid "Date"
+msgstr ""
+
+#: inc/class-em4wp-frontend.php:96
+msgid "Start: "
+msgstr ""
+
+#: inc/class-em4wp-frontend.php:100 inc/class-em4wp-frontend.php:112
+msgid "at "
+msgstr ""
+
+#: inc/class-em4wp-frontend.php:108
+msgid "End: "
+msgstr ""
+
+#: inc/class-em4wp-locations.php:49
+msgid "Location"
+msgstr ""
+
+#: inc/class-em4wp-locations.php:114
+msgid "Display?"
+msgstr ""
+
+#: inc/class-em4wp-locations.php:120
+msgid "Latitude"
+msgstr ""
+
+#: inc/class-em4wp-locations.php:126
+msgid "Longitude"
+msgstr ""
+
+#: inc/class-em4wp-locations.php:132
+msgid "Width"
+msgstr ""
+
+#: inc/class-em4wp-locations.php:138
+msgid "Height"
+msgstr ""
+
+#: inc/class-em4wp-locations.php:224
+msgid "Event location"
+msgstr ""
+
+#: inc/class-em4wp-read-more.php:23
+msgid "External Event Information"
+msgstr ""
+
+#: inc/class-em4wp-read-more.php:42
+msgid "Link Text"
+msgstr ""
+
+#: inc/class-em4wp-read-more.php:48
+msgid "URL"
+msgstr ""
+
+#: inc/class-em4wp-read-more.php:102
+msgid "More information"
+msgstr ""
+
+#: inc/class-em4wp-settings.php:40 inc/class-em4wp-settings.php:41
+msgid "Settings"
+msgstr ""
+
+#: inc/class-em4wp-settings.php:56
+msgid "Events Manager for WordPress settings"
+msgstr ""
+
+#: inc/class-em4wp-settings.php:57
+msgid ""
+"Control the events settings here. You will need to refresh your permalinks "
+"when you have made changes here"
+msgstr ""
+
+#: inc/class-em4wp-settings.php:65
+msgid "Single Event Slug prefix"
+msgstr ""
+
+#: inc/class-em4wp-settings.php:68
+msgid "This is what comes before a single event slug shown in URLs."
+msgstr ""
+
+#: inc/class-em4wp-settings.php:75
+msgid "Archive Slug"
+msgstr ""
+
+#: inc/class-em4wp-settings.php:78
+msgid "Events that are in the past will be displayed at an archive slug."
+msgstr ""
+
+#: inc/class-em4wp-settings.php:85
+msgid "Event Types prefix"
+msgstr ""
+
+#: inc/class-em4wp-settings.php:88
+msgid "Event Types archives are displayed after this slug."
+msgstr ""
+
+#: inc/class-em4wp-settings.php:95
+msgid "Events Overview slug"
+msgstr ""
+
+#: inc/class-em4wp-settings.php:98
+msgid "The Overview of Events are displayed at this slug."
+msgstr ""
+
+#: inc/class-em4wp-settings.php:107
+msgid "Save Changes"
+msgstr ""
+
+#: inc/class-em4wp-upcoming-events.php:13
+msgid "Upcoming Events Widget"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Events Manager for WordPress 1.2.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#. #-#-#-#-#  plugin.pot (Events Manager for WordPress 1.2.1)  #-#-#-#-#
+#. Description of the plugin/theme
+msgid "Events Manager for WordPress"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/forsitemedia/events-manager-for-wp/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Forsite Media"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://forsite.media/"
+msgstr ""
